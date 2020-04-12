@@ -1,7 +1,7 @@
 # multilangOfHts
 multi-language of hts
 
-|  中文   | English |
+|  中文   | English | 
 |  ----  | ----  |
 | 组态  | configuration |
 |自动机|automaton |
@@ -74,7 +74,8 @@ multi-language of hts
 
 #会计
 
-|中文|英文|
+|  中文   | English |
+|  ----  | ----  |
 |会计|accounting|
 |年度报告|annual report|
 |审计|audit|
@@ -107,7 +108,8 @@ multi-language of hts
 
 #物流
 
-|中文|英文|
+|  中文   | English |
+|  ----  | ----  |
 |库存|inventory|
 |库存持有成本|stockholding costs|
 |储存成本|storage costs|
