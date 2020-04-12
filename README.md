@@ -45,3 +45,88 @@ multi-language of hts
 |工业自动化|industrial automation|
 |发起站|initiator|
 |不稳定性|instability|
+|伺服马达|servomotor|
+|六分仪|sextant|
+|鲁棒性|robustness|
+|鲁棒控制|robust control|
+|机器人学|robotics|
+|路径问题|routing problem|
+|采样控制系统|samped-data control system|
+|自校正控制|self-tuning control|
+|仿真器|simulator|
+|汇点|sink|
+|阶跃函数|step function|
+|步进控制|step-by-step control|
+|纹理|texture|
+|热电偶|thermocouple|
+|温度计|thermometer|
+|厚度计|thickness meter|
+|推力器|thruster|
+|时间常数|time constant|
+|分时控制|time-sharing control|
+|时序控制器|time schedule controller|
+|时变参数|time-varying parameter|
+|欠阻尼|underdamping|
+|单位圆|unit circle|
+|单元测试|unit testing|
+|振动计|vibrometer|
+|预算|budget|
+
+#会计
+|中文|英文|
+|会计|accounting|
+|年度报告|annual report|
+|审计|audit|
+|决算表/资产负债表/资金平衡表|balance sheet|
+|预测|forecast|
+|收益表/损益表/利润表|income statement|
+|消费|equity|
+|历史成本|historical cost|
+|收益|income|
+|所得税|income tax|
+|存货|inventory|
+|负债|liability|
+|损失|loss|
+|重要性|materiality|
+|收入|revenue|
+|企业分部|segment|
+|折旧|depreciation|
+|借款|borrowing|
+|投资|investment|
+|原材料|raw material|
+|固定资产|property plant and rquipment|
+|平均成本|average cost|
+|过期|past due|
+|回扣|rebate|
+|零售|retail|
+|明细记录|subsidiary record|
+|应收账款|trade receivable|
+|减记|write down|
+|清算|liquidate|
+
+#物流
+|中文|英文|
+|库存|inventory|
+|库存持有成本|stockholding costs|
+|储存成本|storage costs|
+|库存损耗|stock deterioration|
+|贬值|depreciation|
+|清点/库存盘点|stocktaking|
+|有形资产|physical assets|
+|成本价|cost price|
+|市场价|market price|
+|售价|selling price|
+|供应链|supply chain|
+|第一层供应商|tier 1 supplier|
+|生产商|manufacturer|
+|配送商|distributor|
+|零售商|retailer|
+|顾客|customer|
+|供应链管理|chain management|
+|运输|transportation|
+|物流|logistics|
+|仓库|warehouse|
+|车队|fleet|
+|库存|stocks|
+|回收|recycling|
+
