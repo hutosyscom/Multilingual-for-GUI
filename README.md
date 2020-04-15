@@ -1,5 +1,5 @@
-# multilangOfHts
-multi-language of hts
+# Multilingual-for-GUI
+Multilingual for GUI
 
 |  中文   | English | 
 |  ----  | ----  |
