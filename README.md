@@ -3,6 +3,118 @@ Multilingual for GUI
 
 |  中文   | English | 
 |  ----  | ----  |
+|打开|open|
+|打开样例|Open samples|
+|添加|Append|
+|关闭|Close|
+|保存项目|Save Project|
+|另存为|Save As|
+|打印|Print|
+|打印预览|Print Preview|
+|页面设置|Page Setup|
+|导入|Import|
+|导出|Export|
+|撤销|Undo|
+|剪切|Cut|
+|复制|Copy|
+|粘贴|Paste|
+|消除|Clear|
+|插入|Insert|
+|删除|delete|
+|装置|transpose|
+|添加项目|Append project|
+|重命名|rename|
+|新窗口|new window|
+|新文件夹|new folder|
+|属性|propertites|
+|工作表|worksheet|
+|记事窗口|notes|
+|排版|layout|
+|函数|function|
+|无|none|
+|查看|view|
+|刷新|refresh|
+|大图标|large icons|
+|小图标|small icons|
+|列表|list|
+|详细|details|
+|以名称|by name|
+|以类别|by type|
+|以大小|by size|
+|修改时间|modification time|
+|创建时间|creation time|
+|以从属|by dependents|
+|打印|print|
+|状态栏|status bar|
+|代码窗口|code window|
+|项目管理器|project explorer|
+|查看模式|view mode|
+|显示X列|show x column|
+|显示网格|show grid|
+|打印查看|print view|
+|页面查看|page view|
+|放大|zoom in|
+|缩小|zoom out|
+|整页|whole page|
+|全屏|full screen|
+|散点图|scatter|
+|线图|line|
+|棒形图|bar|
+|柱状图|column|
+|饼图|pie|
+|等高线|contour plots|
+|气泡映射图|Bubble mapped|
+|统计图|statistical graphs|
+|面板|panel|
+|面积|area|
+|极坐标|polar|
+|三角图|ternary|
+|史密斯图|smith chart|
+|绘制近值图|high-low-close|
+|矢量图|vector xyam|
+|模板|template|
+|垂线图|vertical drop line|
+|垂直阶梯图|vertical step|
+|水平阶梯图|horizontal strp|
+|双Y轴图|Double-Y|
+|多线图|line series|
+|瀑布图|waterfall|
+|3D棒状图|3D bars|
+|3D带状图|3D ribbons|
+|3D墙图|3D walls|
+|3D瀑布图|3D waterfall|
+|3D散点图|3D scatter|
+|3D抛物线图|3D trajectory|
+|单元格|cell|
+|列头|heading|
+|式样|style|
+|粗体|bold|
+|选项|option|
+|多行|multiline|
+|标签|label|
+|分割|divide|
+|网格|grid|
+|垂直|vertical|
+|水平|horizortal|
+|矩阵|matrix|
+|定义|dimension|
+|装置|transpose|
+|求逆|invert|
+|旋转|rotate|
+|反转|flip|
+|扩大|expand|
+|收缩|shrink|
+|平滑|smooth|
+|积分|integrater|
+|内部的|internal|
+|坐标|coordinates|
+|自定义|Utilities| 
+|变量|Variables|
+|图库|Gallery|
+|交互式|Interactive |
+|回归|Regression|
+|合并文件|Merge files|
+|||
 | 组态  | configuration |
 |自动机|automaton |
 |自动/手操站|automatic manual station|
